@@ -64,5 +64,3 @@ C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\front-end-re
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\package-lock.json
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\package.json
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\Microsoft.AspNetCore.Proxy.dll
-C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\front-end-react\build\asset-manifest.json
-C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\front-end-react\build\manifest.json

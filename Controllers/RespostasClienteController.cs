@@ -3,7 +3,6 @@ using EntradaDeDados.Models;
 using System;
 using System.Threading.Tasks;
 using MeuBanco.Data;
-using desafio_bem_promotora.Controllers;
 
 namespace RespostasCli.Controllers
 {

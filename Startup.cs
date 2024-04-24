@@ -31,7 +31,7 @@ namespace SeuNamespace
         options.AddPolicy("AllowLocalhost",
             builder =>
             {
-                builder.WithOrigins("http://localhost:3000") // ou o endereço do seu frontend
+                builder.WithOrigins("http://192.168.0.10:3000") // ou o endereço do seu frontend
                        .AllowAnyHeader()
                        .AllowAnyMethod();
             });

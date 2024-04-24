@@ -1,11 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using RespostasCli.Controllers;
-using MeuBanco.Data;
 
 namespace EntradaDeDados.Models
 {
-    [Table("RespostasCliente")] // Especifica o nome da tabela no banco de dados
+    [Table("RespostasPesquisa")] // Especifica o nome da tabela no banco de dados
     public class RespostasCliente
     {
         [Key]

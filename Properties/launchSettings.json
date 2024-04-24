@@ -10,7 +10,6 @@
   "profiles": {
     "desafio_bem_promotora": {
       "commandName": "Project",
-      "windowsAuthentication": true,
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5000",
