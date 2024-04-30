@@ -50,7 +50,6 @@ C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\staticwebass
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\scopedcss\bundle\desafio-bem-promotora.styles.css
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\scopedcss\projectbundle\desafio-bem-promotora.bundle.scp.css
-C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\desafio-bem-promotora.csproj.CopyComplete
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\desafio-bem-promotora.dll
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\refint\desafio-bem-promotora.dll
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\desafio-bem-promotora.pdb
@@ -64,3 +63,10 @@ C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\front-end-re
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\package-lock.json
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\package.json
 C:\Users\PC\Documents\GitHub\desafio-bem-promotora\bin\Debug\net6.0\Microsoft.AspNetCore.Proxy.dll
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\desafio-bem-promotora.sourcelink.json
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\staticwebassets\msbuild.desafio-bem-promotora.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\staticwebassets\msbuild.build.desafio-bem-promotora.props
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.desafio-bem-promotora.props
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.desafio-bem-promotora.props
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Documents\GitHub\desafio-bem-promotora\obj\Debug\net6.0\desafio-.A0FDA4F8.Up2Date

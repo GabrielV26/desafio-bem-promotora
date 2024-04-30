@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace desafio_bem_promotora.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240418135351_RenameTableToRespostasPesquisas")]
-    partial class RenameTableToRespostasPesquisas
+    [Migration("20240424181755_Dia24deAbril")]
+    partial class Dia24deAbril
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

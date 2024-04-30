@@ -4,7 +4,7 @@
 
 namespace desafio_bem_promotora.Migrations
 {
-    public partial class RenameTableToRespostasPesquisas : Migration
+    public partial class Dia24deAbril : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
