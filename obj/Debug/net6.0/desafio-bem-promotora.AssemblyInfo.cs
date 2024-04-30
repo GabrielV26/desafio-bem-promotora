@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafio-bem-promotora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bb7c33095c7c1c4b6912ecf99e67f1ab1d1bef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf5f76025a0e5ce70a093b30def1bc5fcdb78cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafio-bem-promotora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafio-bem-promotora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
