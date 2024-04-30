@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Eu/yNsq3QHLGnMIgexS4c71A9EOufdDIVFDfQ8hhJJAN72arQXOfbPSsCFD19NIA81T4L4PfG8pOej3GrgO5w==",
+  "dgSpecHash": "qSooBrj8Sxa7RWNMIE684IkrR63XtVmsHQ7opO2mQIl4vGF6c6NdRd1QR2md43/2+dSx1Mxf7fT9TmOm+iEW9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\desafio-bem-promotora\\desafio-bem-promotora.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\front-end-back-end\\desafio-bem-promotora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

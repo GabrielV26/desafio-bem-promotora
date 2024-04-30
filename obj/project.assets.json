@@ -6662,11 +6662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\desafio-bem-promotora\\desafio-bem-promotora.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\front-end-back-end\\desafio-bem-promotora.csproj",
       "projectName": "desafio-bem-promotora",
-      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\desafio-bem-promotora\\desafio-bem-promotora.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\front-end-back-end\\desafio-bem-promotora.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\desafio-bem-promotora\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\front-end-back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
